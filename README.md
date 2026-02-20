@@ -45,4 +45,4 @@ Atualmente focada em análise de dados na área da saúde, machine learning e...
 
 - [LinkedIn](https://www.linkedin.com/in/karolyne-muniz/)  
  
-- 📧 2001karolyneandrade@gmail.com 
+- 📧 munizkarolyne42@gmail.com
