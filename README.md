@@ -1,48 +1,49 @@
-# 👋 Olá! Eu sou a Karolyne!
+# 👋 Hi there, I'm Karolyne !
+### Data Analyst | Healthcare Data Enthusiast | Creative Problem Solver
 
-Junior Data Analyst | Entusiasta de Visual Novels | Estudando japonês (alvo: JLPT N3)  
-Atualmente focada em análise de dados na área da saúde, machine learning e... criar minha própria visual novel! 🎮✨
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens**: Python (pandas, scikit-learn, NumPy), SQL (MySQL, Databricks)
-- **Visualização**: Power BI, Matplotlib, Seaborn
-- **Data Engineering**: Pipelines de automação com Python, manipulação de dados não estruturados
-- **LLMs & GenAI**: Experiência prática com aplicações de LLMs (RAG, automação, análise de texto)
-- **Game Dev**: Ren’Py (visual novels), Krita (arte digital)
-- **Outros**: Git, Markdown, Obsidian (para organização de conhecimento!)
+I’m a Junior Data Analyst transitioning into the healthcare data science space. I believe that clean data and clear logic can drive real-world impact, especially in public health and patient care. I combine analytical rigor with a creative mindset to build intuitive dashboards, automate pipelines, and uncover actionable insights.
 
 ---
 
-### 📊 Projetos em Destaque
-
-- **Análise de Dados em Saúde**:  
-  Trabalhando com dados não estruturados para extrair insights clínicos e operacionais.
-  
-- **Osaka Tourism Recommender**:  
-  Um sistema de recomendação baseado em preferências turísticas, com dados em japonês e enriquecimento via LLMs.
-  
-- **Japanese Tech Skill Trends**:  
-  Análise de vagas de TI no Japão para identificar demandas de mercado e alinhar meu aprendizado.
-
-- **Minha Visual Novel (em desenvolvimento!)**:  
-  Feita com Ren’Py — roteiro, arte e programação por mim. Inspirada por Visual Kei e narrativas emocionais (e um pouco de horror psicológico 🩸).
+### 🎯 Current Focus
+- 📚 **Deepening Foundations**: Reading *Practical Statistics for Data Scientists* and *Storytelling with Data* to strengthen my statistical literacy and visualization skills.
+- 🎓 **Upskilling**: Completing healthcare data analysis modules on freeCodeCamp.
+- 🏥 **Domain Specialization**: Focusing on tabular healthcare data, EHR systems, and predictive modeling for patient outcomes.
 
 ---
 
-### 🌱 Atualmente
+### 🚀 Projects in Progress
+*I believe in learning by doing. Here is what I am currently building:*
 
-- Aprimorando minhas habilidades estatísticas para análise em saúde
-- Estudando japonês diariamente (kanji é meu inimigo diário 😅)
-- Aprendendo a gerenciar melhor meu tempo para equilibrar trabalho, estudo e criatividade
-- Ouvindo **Visual Kei** no volume máximo enquanto desenho ou codifico
+- 🇧🇷 **[Brazilian Public Health Analysis (DATASUS)](link-to-repo)**  
+  *Analyzing public hospitalization or mortality data from Brazil's DATASUS to identify regional health trends. Built with Python (Pandas) and visualized in Power BI.*
+- 🏥 **[Patient Readmission Prediction (MIMIC-IV)](link-to-repo)**  
+  *Developing a machine learning model to predict 30-day hospital readmissions, focusing on handling imbalanced clinical data and evaluating precision/recall trade-offs.*
+- 📊 **[Healthcare Resource Optimization Dashboard](link-to-repo)**  
+  *A data pipeline and Power BI dashboard simulating ER wait times and bed occupancy to support operational decision-making.*
 
 ---
 
-### 📫 Onde me encontrar
+### 🛠️ Tech Stack & Tools
+- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL
+- **Visualization**: Power BI, Matplotlib, Seaborn
+- **Workflow**: Git/GitHub, Data Pipeline Automation, Obsidian (for knowledge management!)
 
-- [LinkedIn](https://www.linkedin.com/in/karolyne-muniz/)  
- 
-- 📧 karolyne.ia.muniz@gmail.com
+---
+
+### 🎨 Beyond the Data
+When I'm not wrangling data, I’m exercising my creative muscles:
+- 🎮 Developing my own visual novel (using Ren'Py & Krita)
+- 🇯🇵 Learning Japanese and exploring visual kei music
+- 🎨 Drawing and studying game design mechanics
+
+*I find that creative hobbies and data analysis share a common thread: both require breaking down complex systems into manageable, logical pieces.*
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/karolyne-muniz)
+- 📧 [karolyne.ia.muniz@gmail.com]
+
+
+*“Once the logic is figured out, the rest is just execution.”*
