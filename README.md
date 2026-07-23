@@ -20,7 +20,7 @@ I’m a Junior Data Analyst transitioning into the healthcare data science space
 - 🏥 **[Patient Readmission Prediction (MIMIC-IV)](link-to-repo)**  
   *Developing a machine learning model to predict 30-day hospital readmissions, focusing on handling imbalanced clinical data and evaluating precision/recall trade-offs.*
 - 📊 **[Stroke Prediction Using Machine Learning](https://github.com/karolyne-ia-muniz/stroke_prediction)**  
-  *A project using the Random Forest Classifier and the SMOTE technique to ensure not only right accurary but also high recall.*
+  *A project using the Random Forest Classifier and the SMOTE technique to ensure not only high accurary but also high recall.*
 
 ---
 
