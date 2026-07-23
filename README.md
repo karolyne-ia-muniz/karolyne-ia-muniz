@@ -19,7 +19,7 @@ I’m a Junior Data Analyst transitioning into the healthcare data science space
   *Analyzing public hospitalization or mortality data from Brazil's DATASUS to identify regional health trends. Built with Python (Pandas) and visualized in Power BI.*
 - 🏥 **[Patient Readmission Prediction (MIMIC-IV)](link-to-repo)**  
   *Developing a machine learning model to predict 30-day hospital readmissions, focusing on handling imbalanced clinical data and evaluating precision/recall trade-offs.*
-- 📊 **[Healthcare Resource Optimization Dashboard](link-to-repo)**  
+- 📊 **[Stroke Prediction Using Machine Learning](https://github.com/karolyne-ia-muniz/stroke_prediction)**  
   *A data pipeline and Power BI dashboard simulating ER wait times and bed occupancy to support operational decision-making.*
 
 ---
