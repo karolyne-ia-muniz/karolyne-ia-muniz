@@ -17,8 +17,8 @@ I’m a Junior Data Analyst transitioning into the healthcare data science space
 
 - 🇧🇷 **[Brazilian Public Health Analysis (DATASUS)](link-to-repo)**  
   *Analyzing public hospitalization or mortality data from Brazil's DATASUS to identify regional health trends. Built with Python (Pandas) and visualized in Power BI.*
-- 🏥 **[Patient Readmission Prediction (MIMIC-IV)](link-to-repo)**  
-  *Developing a machine learning model to predict 30-day hospital readmissions, focusing on handling imbalanced clinical data and evaluating precision/recall trade-offs.*
+- 🏥 **[Covid-19 Worldmapping Cases](https://github.com/karolyne-ia-muniz/covid-19-eda)**  
+  *Visualization in a Streamlit dashboard of the worldwide cases, deaths, recovered and active cases of Covid-19.*
 - 📊 **[Stroke Prediction Using Machine Learning](https://github.com/karolyne-ia-muniz/stroke_prediction)**  
   *A project using the Random Forest Classifier and the SMOTE technique to ensure not only high accurary but also high recall.*
 
